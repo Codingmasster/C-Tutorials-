@@ -10,3 +10,11 @@ A destructor is a special member function of a class that is executed whenever a
 
 ##### Composition => Composition.CPP
 There are two basic subtypes of object composition: composition and aggregation. Composition.CPP is basic example of how to implement composition
+
+##### Cardinality,Equality,Cartesian,Union,Intersection,Difference => SetOperations.CPP
+The cardinality of a set is a measure of the number of elements of the set.
+Equality of sets is defined as set A is said to be equal to set B if both sets have the same elements or members of the sets, i.e. if each element of set A also belongs to each element of set B, and each element of set B also belongs to each element of set A.
+If A and B are two non-empty sets, then their Cartesian product A × B is the set of all ordered pair of elements from A and B.
+The union (denoted by ∪) of a collection of sets is the set of all elements in the collection.
+The intersection A ∩ B of two sets A and B is the set that contains all elements of A that also belong to B. 
+Differece of 2 given sets A and B is the set of all element in A, but not in B.
