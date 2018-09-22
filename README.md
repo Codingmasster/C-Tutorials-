@@ -1,11 +1,13 @@
 # C++ Tutorials
 
 ##### Switch Statement => SwitchStatement.CPP
-A switch statement allows a variable to be tested for equality against a list of values. Each value is called a case, and the variable being switched on is checked for each case.
+A switch statement allows a variable to be tested for equality against a list of values. Each value is called a case, and the variable being switched on is checked for each case. An example of switch statment on grading system.
 
 ##### Class => DateClass.CPP
 Class is main block of Object Oriented programming.
 DateClass.CPP is basic class example of a DATE which display user input date in user defind format.
+##### Dynamic Array => DynamicArray.CPP 
+A dynamically allocated array is declared as a pointer, and must not use the fixed array size declaration. Example of dynamic array used in a class to create a demo student information recording system. 
 
 ##### Constructor/Destructor => ConstructorDestructor.CPP
 Constructor is a special function of a class that is executed whenever we create new objects of that class.
