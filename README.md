@@ -23,3 +23,7 @@ If A and B are two non-empty sets, then their Cartesian product A × B is the se
 The union (denoted by ∪) of a collection of sets is the set of all elements in the collection.
 The intersection A ∩ B of two sets A and B is the set that contains all elements of A that also belong to B. 
 Differece of 2 given sets A and B is the set of all element in A, but not in B.
+
+##### Singly Linked List => Single.CPP
+Singly Linked Lists are a type of data structure. In a singly linked list, each node in the list stores the contents and a pointer or reference to the next node in the list. It does not store any pointer or reference to the previous node. To store a single linked list, only the reference or pointer to the first node in that list must be stored. The last node in a single linked list points to nothing.
+
