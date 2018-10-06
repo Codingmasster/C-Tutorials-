@@ -37,3 +37,6 @@ Initialize one object from another of the same type.
 Copy an object to pass it as an argument to a function.
 Copy an object to return it from a function.
 If a copy constructor is not defined in a class, the compiler itself defines one.If the class has pointer variables and has some dynamic memory allocations, then it is a must to have a copy constructor.
+
+##### Static Member Of Class => StaticMember.CPP
+We can define class members static using static keyword. When we declare a member of a class as static it means no matter how many objects of the class are created, there is only one copy of the static member.
