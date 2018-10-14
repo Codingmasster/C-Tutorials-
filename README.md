@@ -40,3 +40,6 @@ If a copy constructor is not defined in a class, the compiler itself defines one
 
 ##### Static Member Of Class => StaticMember.CPP
 We can define class members static using static keyword. When we declare a member of a class as static it means no matter how many objects of the class are created, there is only one copy of the static member.
+
+##### Operator Overloading => OperatorOverloading.CPP 
+C++ allows you to specify more than one definition for a function name or an operator in the same scope, which is called function overloading and operator overloading respectively.
