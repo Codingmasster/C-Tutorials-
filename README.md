@@ -43,3 +43,6 @@ We can define class members static using static keyword. When we declare a membe
 
 ##### Operator Overloading => OperatorOverloading.CPP 
 C++ allows you to specify more than one definition for a function name or an operator in the same scope, which is called function overloading and operator overloading respectively.
+
+##### Data structures => Struct.CPP
+A data structure is a group of data elements grouped together under one name. These data elements, known as members, can have different types and different lengths.
