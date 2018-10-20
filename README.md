@@ -46,3 +46,6 @@ C++ allows you to specify more than one definition for a function name or an ope
 
 ##### Data structures => Struct.CPP
 A data structure is a group of data elements grouped together under one name. These data elements, known as members, can have different types and different lengths.
+
+##### Stack data structure => Stack.CPP
+ Stack is a linear data structure which follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out).
